@@ -1,0 +1,330 @@
+2023-11-22T05:50:01.834773Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-11-22T05:50:01.835082Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-11-22T05:50:01.835288Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 23048
+2023-11-22T05:50:02.457941Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-22T05:50:03.663214Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-11-22T05:50:06.088594Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-11-22T05:50:06.119772Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-11-22T05:50:06.123663Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-11-22T05:50:06.441362Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-11-22T05:50:06.441947Z 0 [System] [MY-010931] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-11-22T05:50:06.524063Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-11-22T05:50:06.524336Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-11-22T05:50:06.524504Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 18280
+2023-11-22T05:50:06.732597Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-22T05:50:06.738724Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-11-22T05:50:06.741360Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-11-22T05:50:06.745273Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-11-22T05:50:06.752004Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-11-22T05:50:06.755468Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-11-22T05:50:06.769923Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-11-22T05:50:07.024668Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-11-22T05:50:07.024919Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-11-22T05:50:07.025112Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 20840
+2023-11-22T05:50:07.198363Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-11-22T05:50:07.203164Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-11-22T05:50:07.207120Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2023-11-22T05:50:07.209450Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-11-22T05:50:07.212868Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-11-22T05:50:07.214942Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-11-22T05:50:07.229864Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2023-12-24T14:06:48.048099Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-12-24T14:06:48.048179Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-12-24T14:06:48.048228Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 21304
+2023-12-24T14:06:48.112971Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-24T14:06:48.749628Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-24T14:06:49.144934Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-24T14:06:49.152347Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-24T14:06:49.190288Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-12-24T14:06:49.226765Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-24T14:06:49.227231Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-24T14:06:49.285392Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-24T14:06:49.285533Z 0 [System] [MY-010931] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-12-26T06:52:47.841721Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-12-26T06:52:47.841855Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-12-26T06:52:47.841929Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 16976
+2023-12-26T06:52:47.930670Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-12-26T06:52:48.790038Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-12-26T06:52:50.314194Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-12-26T06:52:50.339225Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-12-26T06:52:50.451908Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-12-26T06:52:51.067881Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-12-26T06:52:51.068993Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-12-26T06:52:51.420022Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-12-26T06:52:51.420444Z 0 [System] [MY-010931] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-01-02T06:18:33.159307Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T06:18:33.159409Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T06:18:33.159491Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 2976
+2024-01-02T06:18:33.238941Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T06:18:33.812213Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T06:18:34.079549Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T06:18:34.080445Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T06:18:34.264496Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T06:18:34.265088Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T06:18:34.265430Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T06:18:35.285400Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T06:18:43.131503Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T06:18:43.131576Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T06:18:43.131616Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 1548
+2024-01-02T06:18:43.161429Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T06:18:43.492711Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T06:18:43.689201Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T06:18:43.689952Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T06:18:43.848719Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T06:18:43.849056Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T06:18:43.849348Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T06:18:44.916370Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:07:18.498470Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:07:18.498593Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:07:18.498694Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 15160
+2024-01-02T07:07:18.607741Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:07:19.393230Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:07:19.824518Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:07:19.825905Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:07:20.236919Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:07:20.237746Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:07:20.238404Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:07:21.124063Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:07:28.701772Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:07:28.701854Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:07:28.701902Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 5732
+2024-01-02T07:07:28.807410Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:07:29.521272Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:07:30.141293Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:07:30.143670Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:07:30.467657Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:07:30.468888Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:07:30.469976Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:07:31.552480Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:08:56.324765Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:08:56.325037Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:08:56.325142Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 2456
+2024-01-02T07:08:56.395359Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:08:57.281936Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:08:57.743955Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:08:57.745211Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:08:58.232180Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:08:58.232796Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:08:58.233342Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:08:59.127662Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:09:07.066252Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:09:07.066463Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:09:07.066584Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 15344
+2024-01-02T07:09:07.191698Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:09:08.218834Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:09:08.613232Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:09:08.614539Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:09:08.977442Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:09:08.977889Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:09:08.978280Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:09:09.996858Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:23:40.572638Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:23:40.572747Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:23:40.572825Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 6944
+2024-01-02T07:23:40.682258Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:23:41.694746Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:23:42.103807Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:23:42.104828Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:23:42.441602Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:23:42.441992Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:23:42.442339Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:23:43.500792Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:23:50.307353Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:23:50.307453Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:23:50.307516Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 9240
+2024-01-02T07:23:50.412918Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:23:51.079251Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:23:51.419296Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:23:51.420237Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:23:51.861391Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:23:51.862732Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:23:51.863946Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:23:52.697847Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:53:15.203209Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:53:15.203314Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:53:15.203379Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 14932
+2024-01-02T07:53:15.292635Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:53:16.131543Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:53:16.532195Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:53:16.533511Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:53:16.912391Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:53:16.912937Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:53:16.913419Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:53:17.938074Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:53:25.605214Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:53:25.605447Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:53:25.605579Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 9608
+2024-01-02T07:53:25.746200Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:53:26.444414Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:53:26.796261Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:53:26.799219Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:53:27.360654Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:53:27.361965Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:53:27.363181Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:53:28.180661Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:54:39.415198Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:54:39.415323Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:54:39.415400Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 1676
+2024-01-02T07:54:39.511592Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:54:40.647345Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:54:41.067136Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:54:41.067974Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:54:41.605502Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:54:41.606515Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:54:41.607750Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:54:42.486953Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:54:50.288133Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:54:50.288314Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:54:50.288414Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 10808
+2024-01-02T07:54:50.428396Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:54:51.254443Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:54:51.907648Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:54:51.908736Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:54:52.141128Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:54:52.141718Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:54:52.142159Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:54:53.299558Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:56:12.803574Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:56:12.803807Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:56:12.803947Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 6464
+2024-01-02T07:56:12.942750Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:56:13.772740Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:56:14.157023Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:56:14.158250Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:56:14.484959Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:56:14.485595Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:56:14.486239Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:56:15.500742Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T07:56:22.821662Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T07:56:22.821841Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T07:56:22.821943Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 9848
+2024-01-02T07:56:22.935771Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T07:56:23.723954Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T07:56:24.108110Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T07:56:24.110512Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T07:56:24.562198Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T07:56:24.563034Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T07:56:24.563843Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T07:56:25.441428Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T22:45:15.281541Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T22:45:15.281616Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T22:45:15.281658Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 2212
+2024-01-02T22:45:15.332253Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T22:45:15.662728Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T22:45:15.908487Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T22:45:15.909279Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T22:45:16.085915Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T22:45:16.086343Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T22:45:16.086715Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T22:45:17.164521Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T22:45:25.347033Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T22:45:25.347105Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T22:45:25.347144Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 8116
+2024-01-02T22:45:25.388126Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T22:45:25.763613Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T22:45:25.965500Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T22:45:25.966287Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T22:45:26.137204Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T22:45:26.137537Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T22:45:26.137832Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T22:45:27.220525Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T22:46:00.107763Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T22:46:00.107837Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T22:46:00.107876Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 20256
+2024-01-02T22:46:00.140921Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T22:46:00.475586Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T22:46:00.727447Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T22:46:00.728148Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T22:46:00.879199Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T22:46:00.879556Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T22:46:00.879874Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T22:46:01.970252Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T22:46:10.152781Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T22:46:10.152854Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T22:46:10.152897Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 18884
+2024-01-02T22:46:10.184390Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T22:46:10.521998Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T22:46:10.720817Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T22:46:10.721449Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T22:46:10.862853Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T22:46:10.863184Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T22:46:10.863480Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T22:46:11.946712Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T22:48:03.403060Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T22:48:03.405168Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T22:48:03.405268Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 14708
+2024-01-02T22:48:03.551639Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T22:48:04.146278Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T22:48:04.462086Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T22:48:04.463021Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T22:48:04.741737Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T22:48:04.742288Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T22:48:04.742779Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T22:48:05.689082Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-02T22:48:12.055652Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-02T22:48:12.055725Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-02T22:48:12.055768Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 15340
+2024-01-02T22:48:12.085467Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-02T22:48:12.393356Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-02T22:48:12.595149Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-02T22:48:12.595942Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-02T22:48:12.757131Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-02T22:48:12.757455Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-02T22:48:12.757741Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-02T22:48:13.802740Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-03T01:05:54.715341Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-03T01:05:54.715521Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-03T01:05:54.715618Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 12856
+2024-01-03T01:05:54.848541Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-03T01:05:55.453274Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-03T01:05:55.829834Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-03T01:05:55.831354Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-03T01:05:56.081907Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-03T01:05:56.082334Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-03T01:05:56.082717Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-03T01:05:57.161793Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-03T01:08:31.689084Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-03T01:08:31.689199Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-03T01:08:31.689270Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 7240
+2024-01-03T01:08:31.772218Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-03T01:08:32.271659Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-03T01:08:32.653758Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-03T01:08:32.655274Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-03T01:08:32.996767Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-03T01:08:32.997634Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-03T01:08:32.998247Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-03T01:08:33.956482Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2024-01-03T01:08:41.941153Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-01-03T01:08:41.941427Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-01-03T01:08:41.941757Z 0 [System] [MY-010116] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 9460
+2024-01-03T01:08:42.062992Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-01-03T01:08:42.632899Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-01-03T01:08:43.061750Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 3, name 'akademik/dosen', file '.\akademik\dosen.ibd' is missing!
+2024-01-03T01:08:43.063126Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 4, name 'akademik/mahasiswa', file '.\akademik\mahasiswa.ibd' is missing!
+mysqld: File '.\binlog.000003' not found (OS errno 2 - No such file or directory)
+2024-01-03T01:08:43.464981Z 0 [ERROR] [MY-010958] [Server] Could not open log file.
+2024-01-03T01:08:43.465891Z 0 [ERROR] [MY-010041] [Server] Can't init tc log
+2024-01-03T01:08:43.466680Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-01-03T01:08:44.304980Z 0 [System] [MY-010910] [Server] D:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.

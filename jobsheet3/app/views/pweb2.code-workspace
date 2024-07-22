@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../PHP Dasar"
+	},
+	{
+		"path": "../../../../P.WEB-FADILAH R-TI 1C/Chapter 11"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "pweb2"
+  }
+}
